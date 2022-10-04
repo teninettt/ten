@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: right;
+    
+    
+}
+.gul{
+    display: flex;
+    justify-content: right;
+
+}
+.diona{
+    display: flex;
+    justify-content: space-around;
+}
+.vino{
+    display: flex;
+    justify-content: space-around;
+}
